@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: JavaLox Updater
-Plugin URI: https://github.com/Joe-Seago/javalox-updater
+Plugin URI: https://github.com/javaloxstudios/javalox-updater
 Description: Boilerplate for pushing automatic updates to JavaLox plugins that are not hosted on WP Plugin Directory
 Version: 1.0
 Contributors: javalox
 Author: Joe Seago
-Author URI: https://joeseago.com
+Author URI: https://javalox.com
 License: GPLv3
 License URI:  https://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: javalox-updater
